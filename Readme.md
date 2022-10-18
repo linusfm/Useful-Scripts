@@ -1,0 +1,1 @@
+This repo will contain all the shitty python scripts used to automate everyday tasks.
